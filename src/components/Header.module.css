@@ -1,7 +1,6 @@
-/* #container {
-    height: 3354.53px;
-    left: -351.35px;
-    top: 4.155px;
-    width: 2236.35px;
-    border-radius: 0px;
-} */
+.container {
+  color: white;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15%;
+}

@@ -4,7 +4,7 @@ import styles from './Header.module.css';
 class Header extends Component {
   render() {
     return (
-      <header id={ styles.container }>
+      <header className={ styles.container }>
         <h1>Sistema Solar</h1>
       </header>
     );
