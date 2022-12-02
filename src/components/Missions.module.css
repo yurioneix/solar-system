@@ -4,3 +4,10 @@
   opacity: 0.1;
   width: 1098px;
 }
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  list-style: none;
+}

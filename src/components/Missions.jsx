@@ -9,7 +9,7 @@ class Missions extends Component {
     return (
       <div data-testid="missions" className={ styles.container }>
         <Title headline="Missões" />
-        <ul>
+        <ul className={ styles.cards }>
           {missions
             .map((mission) => (
               <li key={ mission.name }>
