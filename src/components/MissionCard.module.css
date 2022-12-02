@@ -1,0 +1,8 @@
+.card {
+  background: rgba(24, 26, 37, 0.5);
+  border: 1px solid white;
+  border-radius: 17px;
+  height: 192px;
+  mix-blend-mode: hard-light;
+  width: 496px;
+}
