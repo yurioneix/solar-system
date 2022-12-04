@@ -1,13 +1,13 @@
 .container {
-  background: white;
   border-radius: 30px;
-  opacity: 0.1;
   width: 1098px;
 }
 
 .cards {
+  color: white;
   display: flex;
   flex-wrap: wrap;
+  font-size: larger;
   justify-content: space-evenly;
   list-style: none;
 }

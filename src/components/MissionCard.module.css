@@ -7,3 +7,8 @@
   text-transform: uppercase;
   width: 496px;
 }
+
+.cardDiv {
+  display: flex;
+  justify-content: space-evenly;
+}
