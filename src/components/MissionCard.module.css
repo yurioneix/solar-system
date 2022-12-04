@@ -10,5 +10,11 @@
 
 .cardDiv {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-around;
+  text-transform: capitalize;
+}
+
+.title {
+  margin-left: 10px;
+  text-decoration-line: underline;
 }

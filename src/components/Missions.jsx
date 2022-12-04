@@ -12,7 +12,7 @@ class Missions extends Component {
         <ul className={ styles.cards }>
           {missions
             .map((mission) => (
-              <li key={ mission.name }>
+              <li key={ mission.name } className={ styles.missions }>
                 <MissionCard
                   name={ mission.name }
                   year={ mission.year }
