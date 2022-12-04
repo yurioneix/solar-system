@@ -1,5 +1,9 @@
 .title {
   color: white;
   display: flex;
+  font-size: 40px;
+  font-weight: 300;
   justify-content: center;
+  line-height: 150%;
+  text-transform: uppercase;
 }

@@ -8,7 +8,7 @@ class Missions extends Component {
   render() {
     return (
       <div data-testid="missions" className={ styles.container }>
-        <Title headline="Missões" />
+        <Title headline="MISSÕES" />
         <ul className={ styles.cards }>
           {missions
             .map((mission) => (
