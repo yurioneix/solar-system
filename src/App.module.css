@@ -4,7 +4,7 @@ body {
 
 .container {
   align-items: center;
-  background-image: url('./images/background.png');
+  background-image: linear-gradient(rgba(255, 255, 255, 0), black) , url('./images/background.png');
   background-size: cover;
   display: flex;
   flex-direction: column;
